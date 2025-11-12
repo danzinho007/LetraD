@@ -1,0 +1,25 @@
+Rank 3.000
+
+Brafoneiras Mecânicas 670
+650 Des 647 Vit 111 ResistTodos 8% Reduz
+254 Abater 1m Ouro
+
+Óculos Distópicos
+849 Des 911 Vit 5,5% AcertoCrít
+188 ResArcana 20% DuraçEfeitos 12,5% RedRecarga
+
+Rank 4.926
+
+Des 7.446 Vit 3.400 Dano 427.053
+Res : 842, 397, 397, 543 e 549
+Bônus Exp por Abate : 420%
+Chance de achar Ouro : 100%
+Redução de Custo 12,6%
+
+O Fardo da Sombra 601
+451 Des 98 ResistTodos 7% Reduz 6% Custo
+35% Ouro 2m Ouro
+
+Coroa de Leoric 698
+699 Des 668 Vit 6% AcertoCrít
+159 ResistGél 11,5% RedRecarga
